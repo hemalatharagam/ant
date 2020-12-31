@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<project name = muni default = "info">
+  <target name = "info">
+    <echo>hello muni<echo/>
+  </target>
+ </project>
